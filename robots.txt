@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://course.manychat.com/sitemap.xml
